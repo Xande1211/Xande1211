@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xande1211
+- 👋 Hi, I’m Alexandre! Nice to meet you!
 - 🌱 I’m currently learning HTML5, CSS3 and Javascript
 - 💞️ I’m looking to be a Software developer
 - 📫 You can reach me on xandealmeida.mecufba@gmail.com
